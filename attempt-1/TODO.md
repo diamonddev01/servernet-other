@@ -1,0 +1,1 @@
+# Map prefixes to guilds.

@@ -1,0 +1,10 @@
+node_modules
+build
+*.sqlite
+.obsidian
+token.ts
+scripts
+tests
+randomplanningbullshitgo
+src/network/functions/banned_phrases.lock/banned_links.txt
+.vscode

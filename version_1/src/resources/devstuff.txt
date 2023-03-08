@@ -1,0 +1,28 @@
+Reactions program... might work?
+https://cdn.discordapp.com/attachments/223867697312694272/848651772787687434/unknown.png
+
+Main Server/Bot:
+https://panel.pebblehost.com/server/184243
+
+DevPortal:
+https://discord.com/developers/applications/829383622439206993/oauth2
+
+Blacklist command:
+https://www.youtube.com/watch?v=fInOKK0c0Fs
+
+Quick DB leveling:
+https://stackoverflow.com/questions/58916959/quick-db-leveling-system-database-updatevalue-is-not-a-function
+
+
+
+
+Google search results
+
+Blacklist command:
+https://www.google.com/search?q=quickdb+blacklist+&client=opera-gx&hs=OmR&biw=1879&bih=970&sxsrf=ALeKk01M0vI4NLqdSMo7xucrNEtWZVju-w%3A1622311957941&ei=FYSyYInqOPPUgwfHipe4DQ&oq=quickdb+blacklist+&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAEyBwghEAoQoAEyBwghEAoQoAEyBwghEAoQoAE6BwgjELADECc6BwgAEEcQsANQlO3PCVib-88JYKP9zwloAnACeACAAV2IAagGkgECMTKYAQCgAQGqAQdnd3Mtd2l6yAEJwAEB&sclient=gws-wiz&ved=0ahUKEwjJyN7_vu_wAhVz6uAKHUfFBdcQ4dUDCA0&uact=5
+
+Update JSON files:
+https://www.google.com/search?q=update+a+json+file+javascript&client=opera-gx&hs=wLm&sxsrf=ALeKk01RD1Rxc2DeilqMvxFMe2DDu77pRQ%3A1622311600553&ei=sIKyYIyZIcXTgweEvZ_IDg&oq=update+a+json+file&gs_lcp=Cgdnd3Mtd2l6EAMYAjICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgjECc6BQgAEJECOgUIABCxAzoICAAQsQMQgwE6CAguELEDEIMBOgIILjoECAAQQzoNCC4QsQMQxwEQowIQQzoECC4QQzoICAAQsQMQkQI6BwgAELEDEEM6BwgAEIcCEBRQ54IHWLyeB2C8pgdoAHACeAKAAeQDiAGmDZIBCjEzLjIuMS4wLjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz
+
+Usless search results (multi guild leveling)
+https://www.google.com/search?client=opera-gx&q=multi+server+leveling+system+discord.js&sourceid=opera&ie=UTF-8&oe=UTF-8

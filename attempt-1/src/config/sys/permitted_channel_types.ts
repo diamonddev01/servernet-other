@@ -1,0 +1,1 @@
+export const permitted_channel_type = 0;

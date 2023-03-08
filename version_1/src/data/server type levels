@@ -1,0 +1,7 @@
+Automod levels:
+4: Highest (blocks all swearing NSFW and slurs)
+3: Blocks slurs and NSFW
+2: Blocks slurs
+1: Anything goes
+
+Custom server types can go in data/extraprotection/${guildid}

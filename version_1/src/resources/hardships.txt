@@ -1,0 +1,10 @@
+Some of the hardest things about the bot is its want to go wrong
+Its not always easy to repair these issues
+Keeping these issues Isolated is also an issues
+
+
+Fixing the error of the bot usage thing was just changing the if bot statment to return only, DO NOT EDIT THIS IT WILL ERROR IMMEDIATELY
+
+Fortuanatly it now seems to work correctly. I plan on working on some small upated before resetting the old bot again
+
+The next issue to solve is global leveling, this will be... difficult.

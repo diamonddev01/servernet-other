@@ -1,0 +1,11 @@
+#004S:
+Given Info: Failed to set the sendmessage
+Promlem:    Usually due to missing the main def line and/or a bad if statment.
+
+#003:
+Given Info: Guild name is too long
+Problem:    The guild the message originated from is too long, >20 charectors, therefore the bot has tagged it down to the error code. The bot will still place the name in logs, and may put the id in brakets
+
+#003B:
+Given Info: BYPASSED #003 (Guild name is too long)
+Problem:    The guild the message originated from is too long, >20 charectors however rather than tag it the bot has been given a nickname this guild can be called and has used that instead.
